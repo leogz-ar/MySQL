@@ -1,4 +1,4 @@
-**Taller 01											          Base de datos**
+**Taller 01**
 
 Taller práctico de MySQL.
 
